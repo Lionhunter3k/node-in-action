@@ -3,7 +3,7 @@ var fs = require('fs');
 var path = require('path');
 var mime = require('mime');
 var chatServer = require('./lib/chat_server');
-
+//comment
 var cache = {};
 
 function send404 (response) {
