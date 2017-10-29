@@ -1,9 +1,12 @@
 {
-    "name": "chatrooms",
-    "version": "0.0.1",
-    "description": "blah",
-    "dependencies": {
-        "socket.io": "2.0.4",
-        "mime":"2.0.3"
-    }
+  "name": "chatrooms",
+  "version": "0.0.1",
+  "description": "blah",
+  "dependencies": {
+    "socket.io": "2.0.4",
+    "mime": "2.0.3"
+  },
+  "devDependencies": {
+    "semistandard": "^11.0.0"
+  }
 }
